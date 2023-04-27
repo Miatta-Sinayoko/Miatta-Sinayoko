@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+ADD BIO
+
 <!--
 **Miatta-Sinayoko/Miatta-Sinayoko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
