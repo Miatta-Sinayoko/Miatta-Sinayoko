@@ -1,4 +1,5 @@
-### Hi there 👋                                        Available for employment: October 1, 2023
+### Available for employment: October 1, 2023
+
 
 
 I'm a Senior Intelligence Professional with 15 years’ experience and education transitioning into Data Science, employed with the Department of Defense (DoD) as an active-duty service member and contractor. 
