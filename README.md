@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi there 👋                                     ### Available for employment: October 1, 2023
+
 
 I'm a Senior Intelligence Professional with 15 years’ experience and education transitioning into Data Science, employed with the Department of Defense (DoD) as an active-duty service member and contractor. 
 Specializing in All-Source, Open Source (OSINT), Publicly Available Information (PAI) Geospatial Imagery Intelligence (GEOINT) and Data Analytics, focused on the CENTCOM, EUCOM, and PACOM areas of responsibility. 
@@ -13,6 +14,5 @@ I’m currently working on my professional development to transition into Data S
 
 My career goal is to work in bio pharma as a Data Scientist, Data Analyst or Data Architect. My desired career paths are Lead Analyst, Data Manager, Project Manager and Product Owner.
 
-Upon completion of my Data Science coursework I am available for employment October 1, 2023
 
 Contact: Email: miatta.sinayoko@gmail.com, LinkedIn: https://www.linkedin.com/in/miatta-s-41756b236/ 
