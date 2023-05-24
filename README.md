@@ -1,4 +1,5 @@
-### Available for employment: October 1, 2023
+### Available for employment: October 1, 2023 
+Active TS/SCI w/CI poly (Adjudicated 06/2019)
 
 
 
@@ -9,7 +10,7 @@ Excels in both independent assignments and in a team environment as a proven lea
 
 Expert briefing capabilities from high level leadership down to the tactical level with the ability to tailor information to the end-user. Key areas of expertise include combat global contingency operations, Irregular Warfare (I.W.), DoD intelligence (multiple disciplines), targeting, and non-standard communications. 
 
-Expert in Special Activities planning and execution, Joint Inter-Agency Intergovernmental Multinational operations (JIIM), mission planning (deployment/redeployment), and DoD intelligence operations (CONUS/OCONUS). Fluent in English (primary) and Spanish (intermediate) languages using interpersonal communications, telephonic, and electronic correspondence. Positive presence with lead from the front attitude who is capable of any task. Currently perusing Master of Science in Intelligence, Security Studies and Analysis with a Cyber intelligence concentration. ### Active Top Secret/SCI Security Clearance w/Counterintelligence Polygraph. (Adjudicated 06/2019)
+Expert in Special Activities planning and execution, Joint Inter-Agency Intergovernmental Multinational operations (JIIM), mission planning (deployment/redeployment), and DoD intelligence operations (CONUS/OCONUS). Fluent in English (primary) and Spanish (intermediate) languages using interpersonal communications, telephonic, and electronic correspondence. Positive presence with lead from the front attitude who is capable of any task. Currently perusing Master of Science in Intelligence, Security Studies and Analysis with a Cyber intelligence concentration.
 
 I’m currently working on my professional development to transition into Data Science and my Master thesis at Angelo State University.
 
@@ -17,3 +18,5 @@ My career goal is to work in bio pharma as a Data Scientist, Data Analyst or Dat
 
 
 Contact: Email: miatta.sinayoko@gmail.com, LinkedIn: https://www.linkedin.com/in/miatta-s-41756b236/ 
+
+
