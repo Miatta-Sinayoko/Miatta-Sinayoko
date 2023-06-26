@@ -1,3 +1,6 @@
+I am currently a student at CODEUP LLC studying Data Science
+
+
 ### Available for employment: October 1, 2023 
 Active TS/SCI w/CI poly (Adjudicated 06/2019)
 
