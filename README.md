@@ -1,4 +1,4 @@
-## I am currently a student at CODEUP LLC studying Data Science
+## I am currently enrolled at CODEUP LLC studying Data Science
 
 
 ### Available for employment: October 1, 2023 
