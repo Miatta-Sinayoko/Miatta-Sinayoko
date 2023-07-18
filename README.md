@@ -9,7 +9,7 @@ Active TS/SCI w/CI poly (Adjudicated 06/2019)
 I'm a Senior Intelligence Professional with 15 years’ experience and education transitioning into Data Science, employed with the Department of Defense (DoD) as an active-duty service member and contractor. 
 Specializing in All-Source, Open Source (OSINT), Publicly Available Information (PAI) Geospatial Imagery Intelligence (GEOINT) and Data Analytics, focused on the CENTCOM, EUCOM, and PACOM areas of responsibility. 
 
-Excels in both independent assignments and in a team environment as a proven leader of projects ranging from four to seventy personnel. Accustomed to strategic writing, Political Military issues, targeting, counter-proliferation and counter insurgency.
+Excels in both independent assignments and in a team environment as a proven leader of projects ranging from four to over one-hundred personnel. Accustomed to strategic writing, Political Military issues, targeting, counter-proliferation and counter insurgency.
 
 Expert briefing capabilities from high level leadership down to the tactical level with the ability to tailor information to the end-user. Key areas of expertise include combat global contingency operations, Irregular Warfare (I.W.), DoD intelligence (multiple disciplines), targeting, and non-standard communications. 
 
