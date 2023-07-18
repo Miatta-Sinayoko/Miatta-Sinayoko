@@ -17,7 +17,7 @@ Expert in Special Activities planning and execution, Joint Inter-Agency Intergov
 
 I’m currently working on my professional development to transition into Data Science and my Master thesis at Angelo State University.
 
-My career goal is to work in bio pharma as a Data Scientist, Data Analyst or Data Architect. My desired career paths are Lead Analyst, Data Manager, Project Manager and Product Owner.
+My career goal is to work in the defense industry or bio pharma as a Data Scientist, Data Analyst or Data Architect. My desired career paths are Lead Analyst, Data Manager, Project Manager and Product Owner.
 
 
 Contact: Email: miatta.sinayoko@gmail.com, LinkedIn: https://www.linkedin.com/in/miatta-s-41756b236/ 
