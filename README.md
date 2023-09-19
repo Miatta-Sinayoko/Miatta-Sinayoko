@@ -1,4 +1,4 @@
-## Data Sciencentist
+## Data Scientist
 
 
 ### Available for employment: October 1, 2023 
