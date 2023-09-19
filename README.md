@@ -1,25 +1,21 @@
-## I am currently enrolled at CODEUP LLC studying Data Science
+## Data Sciencentist
 
 
 ### Available for employment: October 1, 2023 
 Active TS/SCI w/CI poly (Adjudicated 06/2019)
 
+Intelligence professional with 16 years of combined experience and education with the Department of Defense, transitioning into data science, bringing a rich background in intelligence operations. Proficiency spans various disciplines including strategic writing, academic writing (literature reviews), Analysis of Alternatives (AoA), political-military issues, counter-proliferation, and counterinsurgency. Deep knowledge and implementation of the intelligence cycle. Demonstrating strong leadership abilities, successfully led both independent and team projects with over 100 personnel. Possess working knowledge on Special Activities planning and execution, Joint Inter-Agency Intergovernmental Multinational operations (JIIM), mission planning (deployment/redeployment), and DoD intelligence operations (CONUS/OCONUS).Adept in utilizing spatial data analysis, machine learning techniques, and predictive modeling. Skill set encompasses data fusion, pattern recognition, and employing machine learning models and anomaly detection algorithms in support of stakeholders' priorities.
 
 
-I'm a Senior Intelligence Professional with 15 years’ experience and education transitioning into Data Science, employed with the Department of Defense (DoD) as an active-duty service member and contractor. 
-Specializing in All-Source, Open Source (OSINT), Publicly Available Information (PAI) Geospatial Imagery Intelligence (GEOINT) and Data Analytics, focused on the CENTCOM, EUCOM, and PACOM areas of responsibility. 
+Dexterous at extracting insights from open-sourced data through natural language processing, sentiment analysis, entity recognition, and social network analysis utilizing Application Programming Interface (API). Methods include data mining, web scraping, visualization, and statistical analysis, supported by open-source software tools. Proficient in transforming raw data, executing Extract, Transform, Load (ETL) procedures, and formulating advanced algorithms for superior data processing. Strong knowledge of the data science pipeline, they possess expertise in data modeling, visualization, and quality assessments. Furthermore, they demonstrate prowess in crafting data structures and overseeing database architecture. Prioritizing accuracy and adherence to industry standards, guaranteeing database compliance with established management protocols.
 
-Excels in both independent assignments and in a team environment as a proven leader of projects ranging from four to over one-hundred personnel. Accustomed to strategic writing, Political Military issues, targeting, counter-proliferation and counter insurgency.
+Possess understanding of data management and the data science pipeline ensures that organizations can rely on data integrity for well-informed decisions. Highly articulate and refined communicator leveraging analytical acumen with interpersonal prowess, problem-solving, and data-driven decision-making skills. Confident that skills and experience are invaluable and eagerly awaiting to discuss how one can contribute to your organization's success.
 
-Expert briefing capabilities from high level leadership down to the tactical level with the ability to tailor information to the end-user. Key areas of expertise include combat global contingency operations, Irregular Warfare (I.W.), DoD intelligence (multiple disciplines), targeting, and non-standard communications. 
+#### Data Science Certifucate from CodeUp LLC Accredited Program
+#### Master thesis at Angelo State University.
 
-Expert in Special Activities planning and execution, Joint Inter-Agency Intergovernmental Multinational operations (JIIM), mission planning (deployment/redeployment), and DoD intelligence operations (CONUS/OCONUS). Fluent in English (primary) and Spanish (intermediate) languages using interpersonal communications, telephonic, and electronic correspondence. Positive presence with lead from the front attitude who is capable of any task. Currently perusing Master of Science in Intelligence, Security Studies and Analysis with a Cyber intelligence concentration.
+#### Career goal Cheif Data Scientist 
 
-I’m currently working on my professional development to transition into Data Science and my Master thesis at Angelo State University.
-
-My career goal is to work in the defense industry or bio pharma as a Data Scientist, Data Analyst or Data Architect. My desired career paths are Lead Analyst, Data Manager, Project Manager and Product Owner.
-
-
-Contact: Email: miatta.sinayoko@gmail.com, LinkedIn: https://www.linkedin.com/in/miatta-s-41756b236/ 
+#### Contact: Email: miatta.sinayoko@gmail.com, LinkedIn: https://www.linkedin.com/in/miatta-s-41756b236/ 
 
 
