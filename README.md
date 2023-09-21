@@ -2,7 +2,7 @@
 
 
 ### Available for employment: October 1, 2023 
-Active TS/SCI w/CI poly (Adjudicated 06/2019)
+Active Clearance  (Adjudicated 06/2019)
 
 Intelligence professional with 16 years of combined experience and education with the Department of Defense, transitioning into data science, bringing a rich background in intelligence operations. Proficiency spans various disciplines including strategic writing, academic writing (literature reviews), Analysis of Alternatives (AoA), political-military issues, counter-proliferation, and counterinsurgency. Deep knowledge and implementation of the intelligence cycle. Demonstrating strong leadership abilities, successfully led both independent and team projects with over 100 personnel. Possess working knowledge on Special Activities planning and execution, Joint Inter-Agency Intergovernmental Multinational operations (JIIM), mission planning (deployment/redeployment), and DoD intelligence operations (CONUS/OCONUS).Adept in utilizing spatial data analysis, machine learning techniques, and predictive modeling. Skill set encompasses data fusion, pattern recognition, and employing machine learning models and anomaly detection algorithms in support of stakeholders' priorities.
 
