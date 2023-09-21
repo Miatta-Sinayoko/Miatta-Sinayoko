@@ -11,9 +11,12 @@ Dexterous at extracting insights from open-sourced data through natural language
 
 Possess understanding of data management and the data science pipeline ensures that organizations can rely on data integrity for well-informed decisions. Highly articulate and refined communicator leveraging analytical acumen with interpersonal prowess, problem-solving, and data-driven decision-making skills. Confident that skills and experience are invaluable and eagerly awaiting to discuss how one can contribute to your organization's success.
 
-#### Data Science Certifucate from CodeUp LLC Accredited Program
-#### Master thesis at Angelo State University.
 
+#### Completed Data Science Certifucate from CodeUp LLC Accredited Program
+
+### Short term goal
+#### Complete Master thesis at Angelo State University.
+### Longterm Goal 
 #### Career goal Cheif Data Scientist 
 
 #### Contact: Email: miatta.sinayoko@gmail.com, LinkedIn: https://www.linkedin.com/in/miatta-s-41756b236/ 
