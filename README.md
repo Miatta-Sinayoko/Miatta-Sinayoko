@@ -14,11 +14,9 @@ Possess understanding of data management and the data science pipeline ensures t
 
 #### Completed Data Science Certifucate from CodeUp LLC Accredited Program
 
-### Short term goal
-#### Complete Master thesis at Angelo State University.
+#### Short term goal: Complete Master thesis at Angelo State University.
 
-### Long term Goal: 
-#### Career goal Cheif Data Scientist 
+#### Long term goal: Career goal Cheif Data Scientist 
 
 #### Contact: Email: miatta.sinayoko@gmail.com, LinkedIn: https://www.linkedin.com/in/miatta-s-41756b236/ 
 
