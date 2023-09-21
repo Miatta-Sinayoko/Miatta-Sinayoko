@@ -16,7 +16,8 @@ Possess understanding of data management and the data science pipeline ensures t
 
 ### Short term goal
 #### Complete Master thesis at Angelo State University.
-### Longterm Goal 
+
+### Long term Goal: 
 #### Career goal Cheif Data Scientist 
 
 #### Contact: Email: miatta.sinayoko@gmail.com, LinkedIn: https://www.linkedin.com/in/miatta-s-41756b236/ 
